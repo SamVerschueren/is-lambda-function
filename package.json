@@ -1,6 +1,6 @@
 {
   "name": "is-lambda-function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect if your code is running in AWS Lambda",
   "license": "MIT",
   "repository": "SamVerschueren/is-lambda-function",
