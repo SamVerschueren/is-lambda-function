@@ -21,6 +21,10 @@ if (isLambdaFunction) {
 ```
 
 
+## Related
+- [is-azure-function](https://github.com/SamVerschueren/is-azure-function) - Detect if your code is running in an [Azure Function](https://azure.microsoft.com/en-us/services/functions/)
+
+
 ## License
 
 MIT © [Sam Verschueren](https://github.com/SamVerschueren)
